@@ -1,8 +1,6 @@
 
 # View Source
 
-Learn how to use Dev Tools!
-
 ![view source](assets/img/console-what-is-code.png)
 
 <sup>Paul Ford <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">What is Code?</a> 2015</sup>
@@ -31,13 +29,14 @@ Students who complete this assignment will be able to:
 
 Complete the following to prepare for this assignment. See [Resources](#resources) for additional information as needed.
 
+- Chapter 2 of Critical Web Design
 - [Codecademy: HTML 1-2 Document Standards](https://www.codecademy.com/learn/learn-html) (1-14)
 - [Codecademy: HTML 2-1 Tables](https://www.codecademy.com/learn/learn-html) (1-13)
 - [Codecademy: HTML 4-1 Semantic HTML](https://www.codecademy.com/learn/learn-html) (1-9)
 - [Codecademy: CSS 1-1 Setup and Selectors](https://www.codecademy.com/learn/learn-css) (1-17)
 - [Codecademy: CSS 1-2 Visual Rules](https://www.codecademy.com/learn/learn-css) (1-10)
-- Quiz 1 - Intro to HTML
-- Course content listed on the schedule
+- Quiz 2 - Intro to HTML
+- Refer to [Resources](#resources) and course content listed on the schedule as needed.
 
 </details>
 
@@ -52,8 +51,8 @@ Points | Description
 10 | The student expanded their knowledge on their own (e.g. experimented with new tags).
 10 | All code is working as intended.
 10 | The content of the page follows parameters outlined in instructions.
-10 | The "view source" metaphor is thoughtful and relevant.
-10 | The "secret message" in the console is intentional and reflects on the assignment.
+10 | The message and design of the concrete poem is thoughtful, intentional, and relevant.
+10 | The message in the console reflects appropriately on the assignment components.
 10 | The commit names in the Git repository are specific to the work performed.
 10 | All code is valid and properly structured. No missing references or errors in the console.
 10 | The project is online, accessible, and linked from Moodle by the deadline.
@@ -77,18 +76,18 @@ Points | Description
 1. Watch this video on [Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw) (11:49)
 1. [Fork](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.gad119073e1_0_6) this repository and [clone](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.g9930d559e8_0_0) it to the `critical-web-design` folder on your machine.
 
+### Design
+
+1. Follow the prompt in Chapter 2 of CWD to create a wireframe for your concrete poem.
+1. Include an image of your design in this repository.
 
 ### Code
 
-1. Use HTML, CSS, and JS to code your design inside `index.html`
+1. Use HTML, CSS, and JS to code your design in `index.html`
 1. Add appropriate structural HTML tags and attributes (`doctype`, `<html>`, `<head>`, `<body>`, etc.)
 1. Style your page with CSS using `<style>` tag or an external stylesheet file. Experiment!
-1. Using an ordered list, write step by step instructions for viewing the source code of a web page in your favorite browser. Include the name of the browser.
-1. Using an unordered list, write three other things you can do with the Dev Tools.
-1. Invent and add a new unique metaphor for this action (e.g. “Looking under the hood”).
-1. Find a website with a secret message in the console or source code (see examples below). Add a screenshot and link to the page with instructions to see the mesage.
-1. Using Javascript, add your own secret message for curious users to the console that somehow *reflects on the content of this assignment*. Add your code using either the `script` tag at the end of the document, or link to an external `.js` file. Experiment with different `console` [ methods](https://developer.mozilla.org/en-US/docs/Web/API/console).
-1. Add an image of your favorite animal somewhere on the page.
+
+
 
 ### Publish
 
@@ -100,8 +99,20 @@ Points | Description
 
 
 
+
+<!-- 
+=< 2022 prompts
+
+1. Using an ordered list, write step by step instructions for viewing the source code of a web page in your favorite browser. Include the name of the browser.
+1. Using an unordered list, write three other things you can do with the Dev Tools.
+1. Invent and add a new unique metaphor for this action (e.g. “Looking under the hood”).
+1. Find a website with a secret message in the console or source code (see examples below). Add a screenshot and link to the page with instructions to see the mesage.
+1. Using Javascript, add your own secret message for curious users to the console that somehow *reflects on the content of this assignment*. Add your code using either the `script` tag at the end of the document, or link to an external `.js` file. Experiment with different `console` [methods](https://developer.mozilla.org/en-US/docs/Web/API/console).
+1. Add an image of your favorite animal somewhere on the page. -->
+
+
 <!--
-PAST PROMPTS
+=< 2019 PROMPTS
 
 Explain how your metaphor communicates the act of looking at source code
 1. Does it still communicate your experience of being able to look “under the hood” after you now have learned to code?
@@ -118,12 +129,13 @@ Explain how your metaphor communicates the act of looking at source code
 ## Resources
 
 - Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
+- [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
 
 
 
 
 
-## *Secret Message* Examples
+## Examples
 
 ![view source](assets/img/jodi-wwwwwwwww-1.png)
 ![view source](assets/img/jodi-wwwwwwwww-2.png)
