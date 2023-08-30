@@ -39,23 +39,7 @@ Complete the following to prepare for this assignment:
 
 <details>
 <summary>Rubric</summary>
-
-Points | Description
----: | ---
-10 | The HTML document uses correct structure, nesting, and syntax throughout.
-10 | HTML code makes the content easy to read and understand.
-10 | The student expanded their knowledge on their own (e.g. experimented with new tags).
-10 | All code is working as intended.
-10 | The content of the page follows parameters outlined in instructions.
-10 | The message and design of the concrete poem is thoughtful, intentional, and relevant.
-10 | The message in the console reflects appropriately on the assignment components.
-10 | The commit names in the Git repository are specific to the work performed.
-10 | All code is valid and properly structured. No missing references or errors in the console.
-10 | The project is online, accessible, and linked from Moodle by the deadline.
-100 | Total possible
-+5% | Bonus! Add an html table with your weekly dream schedule (what you will do when the robots take over)
-
-
+See Moodle.
 </details>
 
 
