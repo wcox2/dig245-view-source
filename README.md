@@ -1,6 +1,8 @@
 
 # View Source
 
+Design & code a concrete poem with HTML/CSS
+
 ![view source](assets/img/console-what-is-code.png)
 
 <sup>Paul Ford <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">What is Code?</a> 2015</sup>
@@ -27,16 +29,10 @@ Students who complete this assignment will be able to:
 <details>
 <summary>Preparation</summary>
 
-Complete the following to prepare for this assignment. See [Resources](#resources) for additional information as needed.
+Complete the following to prepare for this assignment: 
 
 - Chapter 2 of Critical Web Design
-- [Codecademy: HTML 1-2 Document Standards](https://www.codecademy.com/learn/learn-html) (1-14)
-- [Codecademy: HTML 2-1 Tables](https://www.codecademy.com/learn/learn-html) (1-13)
-- [Codecademy: HTML 4-1 Semantic HTML](https://www.codecademy.com/learn/learn-html) (1-9)
-- [Codecademy: CSS 1-1 Setup and Selectors](https://www.codecademy.com/learn/learn-css) (1-17)
-- [Codecademy: CSS 1-2 Visual Rules](https://www.codecademy.com/learn/learn-css) (1-10)
-- Quiz 2 - Intro to HTML
-- Refer to [Resources](#resources) and course content listed on the schedule as needed.
+- Course content listed on the schedule
 
 </details>
 
