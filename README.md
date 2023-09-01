@@ -1,8 +1,6 @@
 
 # View Source
 
-Design & code a concrete poem with HTML/CSS
-
 ![view source](assets/img/console-what-is-code.png)
 
 <sup>Paul Ford <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">What is Code?</a> 2015</sup>
@@ -11,7 +9,8 @@ Design & code a concrete poem with HTML/CSS
 
 ## Introduction
 
-This assignment asks students to combine HTML, CSS, and JS together in a single web page while encouraging good development practices using browser dev tools.
+Design & code a concrete poem using HTML/CSS/JS. Exhibit good development practices using browser DevTools.
+
 
 <details>
 <summary>Learning Objectives</summary>
@@ -19,15 +18,14 @@ This assignment asks students to combine HTML, CSS, and JS together in a single 
 Students who complete this assignment will be able to:
 
 - Recall the main structural tags required for HTML documents
-- Describe how to access and use Chrome Dev Tools for web development
-- Compare reasons for using `<style>`, `<link>`, and `<script>` tags
+- Describe how to use Chrome DevTools for web development
+- Compare reasons and locations for using `<style>`, `<link>`, and `<script>` tags
 - Code a web page using HTML, CSS, and Javascript
 
 </details>
 
 
-<details>
-<summary>Preparation</summary>
+<details><summary>Preparation</summary>
 
 Complete the following to prepare for this assignment: 
 
@@ -47,34 +45,32 @@ See Moodle.
 
 
 
+## Setup
 
-## Assigment
+[Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 
 
-### Setup
+## Design
 
-1. Watch this video on [Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw) (11:49)
-1. [Fork](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.gad119073e1_0_6) this repository and [clone](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.g9930d559e8_0_0) it to the `critical-web-design` folder on your machine.
+1. Follow the prompt in Chapter 2 of CWD to select text from a manifesto and create a wireframe for your concrete poem.
+1. Include an image of (or link to) your design in this repository.
 
-### Design
 
-1. Follow the prompt in Chapter 2 of CWD to create a wireframe for your concrete poem.
-1. Include an image of your design in this repository.
-
-### Code
+## Code
 
 1. Use HTML, CSS, and JS to code your design in `index.html`
 1. Add appropriate structural HTML tags and attributes (`doctype`, `<html>`, `<head>`, `<body>`, etc.)
-1. Style your page with CSS using `<style>` tag or an external stylesheet file. Experiment!
+1. Style your page with CSS using `<style>` tag or an external stylesheet file. 
+1. Use DevTools to inspect the page and experiment. See [Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw) (11:49) 
 
 
 
-### Publish
+## Publish
 
-1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
+1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics/keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 1. Commit changes regularly.
 1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md#css-validation))</sup>
-1. When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
+1. When finished, push, publish, and post all deliverables to Moodle per documentation in the Assignments.
 
 
 
@@ -109,7 +105,7 @@ Explain how your metaphor communicates the act of looking at source code
 ## Resources
 
 - Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
-- [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
+- [Mozilla Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
 
 
 
