@@ -59,9 +59,11 @@ See Moodle.
 ## Code
 
 1. Use HTML, CSS, and JS to code your design in `index.html`
-1. Add appropriate structural HTML tags and attributes (`doctype`, `<html>`, `<head>`, `<body>`, etc.)
 1. Style your page with CSS using `<style>` tag or an external stylesheet file. 
-1. Use DevTools to inspect the page and experiment. See [Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw) (11:49) 
+1. Use DevTools to inspect your page in the browser and experiment with different CSS rules to control its display. Refer back to your wireframe and the [CSS box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) documentation as needed. See also this [Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw) (11:49) tutorial.
+1. Incorporate design choices using focal point and contrast to add context or new meaning to the text in your design. Use the eye movement test often to ensure your layout matches your intentions.
+1. Use `console.log()` to show a citation for the quote, poem, or manifesto you selected in the Console. Include the title, author, date, and a link to the original. Finally, log a license for work.
+1. See Chapter 2 for more details.
 
 
 
@@ -111,7 +113,7 @@ Explain how your metaphor communicates the act of looking at source code
 
 
 
-## Examples
+## Console Examples
 
 ![view source](assets/img/jodi-wwwwwwwww-1.png)
 ![view source](assets/img/jodi-wwwwwwwww-2.png)
