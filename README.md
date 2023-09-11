@@ -52,7 +52,12 @@ See Moodle.
 
 ## Design
 
-1. Follow the prompt in Chapter 2 of CWD to select text from a manifesto and create a wireframe for your concrete poem.
+1. Follow the prompt in Chapter 2 of CWD to select text from a manifesto and create a wireframe for your [concrete poem](https://www.typeroom.eu/article/twenty-things-you-must-know-about-concrete-and-visual-poetry). 
+1. Your text and design should somehow reflect on concepts from the "View Source" chapter 
+1. Find examples to inspire you:
+    1. The [UbuWeb site has several examples of visual poetry](https://www.ubu.com/vp)
+    1. Works by: [Gerhard Rühm](https://www.google.com/search?q=Gerhard+R%C3%BChm+concrete+poem), [Augusto de Campos](https://www.google.com/search?q=augusto+de+campos+concrete+poetry), Guillaume Apollinaire's [Calligrammes](https://en.wikipedia.org/wiki/Calligrammes), or examples from this book [Endless Constellations: On Women in Concrete Poetry 1959–1979](https://www.google.com/search?q=Endless+Constellations%3A+On+Women+in+Concrete+Poetry+1959%E2%80%931979)
+    1. This [Big Data Manifesto](https://molleindustria.org/files/BIG-DATA.html) inspired by Tristan Tzara's [DADA soulève tout](https://www.moma.org/collection/works/184054?artist_id=13398&page=1&sov_referrer=artist) (1921)
 1. Include an image of (or link to) your design in this repository.
 
 
