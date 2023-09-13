@@ -1,0 +1,49 @@
+/* styles.css */
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensures the body takes up at least the full viewport height */
+  background-color: #113c4e; /* Light blue background color */
+  color: antiquewhite;
+  font-family:'Times New Roman', Times, serif
+}
+
+.top_building{
+  width: 1400px; /* Adjust the width as needed */
+  height: 195px; /* Adjust the height as needed */
+  font-size: 18px;
+  /* Position the square at specific coordinates */
+  position: absolute;
+  top: 19px; /* Adjust the top position in pixels */
+  left: 40px; /* Adjust the left position in pixels */
+}
+
+.bottom_building{
+  width: 1400px; /* Adjust the width as needed */
+  height: 195px; /* Adjust the height as needed */
+  font-size: 18px;
+  /* Position the square at specific coordinates */
+  position: absolute;
+  top: 817px; /* Adjust the top position in pixels */
+  left: 40px; /* Adjust the left position in pixels */
+}
+
+.big-block{
+  width: 133px; /* Adjust the width as needed */
+  height: 63px; /* Adjust the height as needed */
+  font-size: 11px;
+}
+
+.small-block{
+  width: 100px; /* Adjust the width as needed */
+  height: 65px; /* Adjust the height as needed */
+  font-size: 9px;
+}
+
+.smaller-block{
+  width: 81px; /* Adjust the width as needed */
+  height: 65px; /* Adjust the height as needed */
+  font-size: 7px;
+}
