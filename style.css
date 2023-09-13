@@ -4,46 +4,44 @@ body {
   padding: 0;
   display: flex;
   flex-direction: column;
-  min-height: 100vh; /* Ensures the body takes up at least the full viewport height */
-  background-color: #113c4e; /* Light blue background color */
+  min-height: 100vh;
+  background-color: #113c4e;
   color: antiquewhite;
   font-family:'Times New Roman', Times, serif
 }
 
 .top_building{
-  width: 1400px; /* Adjust the width as needed */
-  height: 195px; /* Adjust the height as needed */
+  width: 1400px;
+  height: 195px;
   font-size: 18px;
-  /* Position the square at specific coordinates */
   position: absolute;
-  top: 19px; /* Adjust the top position in pixels */
-  left: 40px; /* Adjust the left position in pixels */
+  top: 19px;
+  left: 40px;
 }
 
 .bottom_building{
-  width: 1400px; /* Adjust the width as needed */
-  height: 195px; /* Adjust the height as needed */
+  width: 1400px;
+  height: 195px;
   font-size: 18px;
-  /* Position the square at specific coordinates */
   position: absolute;
-  top: 817px; /* Adjust the top position in pixels */
-  left: 40px; /* Adjust the left position in pixels */
+  top: 817px;
+  left: 40px;
 }
 
 .big-block{
-  width: 133px; /* Adjust the width as needed */
-  height: 63px; /* Adjust the height as needed */
+  width: 133px;
+  height: 63px;
   font-size: 11px;
 }
 
 .small-block{
-  width: 100px; /* Adjust the width as needed */
-  height: 65px; /* Adjust the height as needed */
+  width: 100px;
+  height: 65px;
   font-size: 9px;
 }
 
 .smaller-block{
-  width: 81px; /* Adjust the width as needed */
-  height: 65px; /* Adjust the height as needed */
+  width: 81px;
+  height: 65px;
   font-size: 7px;
 }
